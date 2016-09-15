@@ -1,9 +1,7 @@
 # Wikipedia-API
-Code snippets for Wikipedia API
+Linkt to API Sandbox: https://en.wikipedia.org/wiki/Special:ApiSandbox
 
-Category Pages:
-
-Listing the elements of a category e.g. Communes of Tunisia:
+Category Pages - Extract elements of a category e.g. Communes of Tunisia:
 
 https://en.wikipedia.org/w/api.php?
 action=query&
