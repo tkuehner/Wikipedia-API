@@ -5,11 +5,13 @@ Here you can export pages to xml, either by adding the name of the page or takin
 
 ###Links
 https://de.wikipedia.org/wiki/Spezial:Exportieren
+
 https://en.wikipedia.org/wiki/Special:Export/
 
 ##API Sandbox
 ### Links (Keep in mind that only one language version of wikipedia will be queried)
 https://en.wikipedia.org/wiki/Special:ApiSandbox
+
 https://de.wikipedia.org/wiki/Special:ApiSandbox
 
 ### Query Examples
