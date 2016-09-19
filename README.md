@@ -21,6 +21,12 @@ https://tr.wikipedia.org/wiki/%C3%96zel:D%C4%B1%C5%9FaAktar
 #####Polish
 https://pl.wikipedia.org/wiki/Specjalna:Eksport
 
+###Category Pages
+####Populated Places by Country
+https://en.wikipedia.org/wiki/Category:Lists_of_populated_places_by_country
+####Municipalities
+https://en.wikipedia.org/wiki/Category:Lists_of_municipalities
+
 ##API Sandbox
 #### Links (Keep in mind that only one language version of wikipedia will be queried)
 https://en.wikipedia.org/wiki/Special:ApiSandbox
