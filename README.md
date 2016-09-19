@@ -22,10 +22,18 @@ https://tr.wikipedia.org/wiki/%C3%96zel:D%C4%B1%C5%9FaAktar
 https://pl.wikipedia.org/wiki/Specjalna:Eksport
 
 ###Category Pages
-####Populated Places by Country
+####English Wikipedia
+#####Populated Places by Country
 https://en.wikipedia.org/wiki/Category:Lists_of_populated_places_by_country
-####Municipalities
+#####Municipalities
 https://en.wikipedia.org/wiki/Category:Lists_of_municipalities
+####French Wikipadia
+#####Cities by Country
+https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Liste_de_villes_par_pays
+https://fr.wikipedia.org/wiki/Liste_des_municipalit%C3%A9s_de_Tunisie
+####Spanish Wikipedia
+#####Cities by Country
+https://es.wikipedia.org/wiki/Categor%C3%ADa:Localidades_por_pa%C3%ADs
 
 ##API Sandbox
 #### Links (Keep in mind that only one language version of wikipedia will be queried)
